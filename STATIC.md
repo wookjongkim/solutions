@@ -295,20 +295,6 @@ STATIC은 저희 슈어소프트테크에서 제공하고 있는 코드 정적 �
 여러개의 컴퓨터가 동일한 태스크를 처리하기 위해 네트워크 상에서 서로 통신하며 협력하는 것
 </details>
 
-<details markdown = "1">
-<summary>ADAS(Advanced Driver Assistance System), By-Wire Systems, Active Systems, ESC(Electronic Stability Control)</summary>
-ADAS : 운전자가 안전하고 편리하게 주행할 수 있도록 도와주는 모든 기능<br>
-By-Wire System : 물리적 연결 대신 전기 신호를 통해서 다양한 기능을 수행하는 것<br>
-Active Systems : 차량의 안전성과 성능을 향상시키기 위한 시스템(ex: 더 나은 핸들링과 안정성을 위한 기능)<br>
-ESC(전자식 안정성 제어 시스템) : 차량의 미끄러짐을 방지하고 방향 제어 능력을 유지할 수 있도록 돕는 기술<br>
-</details>
-
-<details markdown = "1">
-<summary>ASIL(Automotive Safety Integrity Level)이란?</summary>
-ASIL은 자동차 안전 무결성 수준을 의미하며 HARA를 통해서 값이 정해집니다.<br>
-ISO 26262 준수를 위한 핵심 사항으로서, A~D등급으로 나뉩니다. 이때 D등급으로 갈수록 안전이 중요한 프로세스라는 뜻입니다.(D등급의 경우 조향, 브레이크 등등)<br>
-</details>
-
 ---
 
 ### 관련 설명 대본
